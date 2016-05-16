@@ -4,3 +4,4 @@ The test for Treavel of time
 
 The code is free distributed under the GPL.
 
+Today i studied SplayTree,it's very cool.
