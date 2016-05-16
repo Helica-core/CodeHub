@@ -1,7 +1,9 @@
-This is my first CodeHub for some ACM-code and test
+This is a personal codehub about code for ACM-ICPC.
 
-The test for Treavel of time
+kinds of algorithm and data structs tamplate.
 
-The code is free distributed under the GPL.
+You can assume the code is correct, Feel free to use it.
 
-Today i studied SplayTree,it's very cool.
+--------------------------------------------------------
+
++ splay.cpp
